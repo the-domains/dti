@@ -1,0 +1,14 @@
+layout_spectrum: 0.5219999491237104
+typography_spectrum: 0.4794859681278467
+color:
+  brandStrength: 0.1126273749396205
+  lightness: 0.7628721131477505
+  saturation: 0.45374695654027164
+  rhythmicContrast: 0.058271417394280434
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: DTI
